@@ -1,0 +1,15 @@
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/bin/Debug/net5.0/CSV_Reader.deps.json
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/bin/Debug/net5.0/CSV_Reader.runtimeconfig.json
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/bin/Debug/net5.0/CSV_Reader.runtimeconfig.dev.json
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/bin/Debug/net5.0/CSV_Reader.dll
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/bin/Debug/net5.0/ref/CSV_Reader.dll
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/bin/Debug/net5.0/CSV_Reader.pdb
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/obj/Debug/net5.0/CSV_Reader.csproj.AssemblyReference.cache
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/obj/Debug/net5.0/CSV_Reader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/obj/Debug/net5.0/CSV_Reader.AssemblyInfoInputs.cache
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/obj/Debug/net5.0/CSV_Reader.AssemblyInfo.cs
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/obj/Debug/net5.0/CSV_Reader.csproj.CoreCompileInputs.cache
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/obj/Debug/net5.0/CSV_Reader.dll
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/obj/Debug/net5.0/ref/CSV_Reader.dll
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/obj/Debug/net5.0/CSV_Reader.pdb
+/Users/justus/Documents/Development/availity-interview-hc-registration/csv_reader/CSV_Reader/CSV_Reader/obj/Debug/net5.0/CSV_Reader.genruntimeconfig.cache

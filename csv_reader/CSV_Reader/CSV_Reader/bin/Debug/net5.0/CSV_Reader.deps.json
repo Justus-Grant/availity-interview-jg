@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CSV_Reader/1.0.0": {
+        "runtime": {
+          "CSV_Reader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSV_Reader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+.form-row {
+    max-width: 80%;
+    margin: auto;
+    display: block;
+    padding: 50px;
+}
+
+.form-control {
+    margin: 10px;
+}

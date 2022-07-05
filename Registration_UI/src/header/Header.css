@@ -1,0 +1,14 @@
+.head-logo{
+    display: inline-block;
+    margin: auto;
+} 
+
+.header-label {
+    width: 70%;
+    display: inline-block;
+}
+
+.nav {
+    margin-bottom: 50px;
+    height: 75px;
+}
